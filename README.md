@@ -8,10 +8,10 @@
     <img src="images/PacMan1.png" alt="PacMan" width="80" height="80">
   </a>
 
-  <h3 align="center">PacMan</h3>
+  <h3 align="center">Eyes</h3>
 
   <p align="center">
-    Arcade game remade
+    Look at my eyes
     <br />
     <a href="https://github.com/ldkmarco/eyes"><strong>Explore the docs »</strong></a>
     <br />
