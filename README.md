@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/mpanrousseau/]
+![LinkedIn][linkedin-shield]https://www.linkedin.com/in/mpanrousseau/
 
 
 
